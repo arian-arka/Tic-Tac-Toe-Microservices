@@ -1,0 +1,15 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+    "./node_modules/flowbite/**/*.js" // configure the Flowbite JS source template paths
+
+  ],
+  darkMode: 'class',
+  theme: {
+    extend: {},
+  },
+  plugins: [
+    require('flowbite/plugin') // require Flowbite's plugin for Tailwind CSS
+  ],
+};

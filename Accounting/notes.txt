@@ -1,0 +1,31 @@
+login
+
+register:
+    name
+    username
+    email
+    password
+    avatar
+
+updateProfile:
+    name
+    username
+    password
+    avatar
+
+logout
+
+
+
+requestFriend
+declineRequest
+acceptRequest
+
+removeFriend
+listFriends
+areFriends
+
+userPublicProfile:
+    name
+    username
+    avatar

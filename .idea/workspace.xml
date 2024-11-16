@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13a24fb4-945a-4d89-b499-7f86c8fa4140" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/public/assets/en-b25bb000.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/public/assets/fa-252e7d5f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/public/assets/favicon-f9bcd60d.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/public/assets/index-2c39fe1f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/public/assets/index-61bdf88b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/public/assets/index-68e2a969.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/public/assets/logo-f1e98f2e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Element/Element.contant.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Element/Element.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Element/Element.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Element/Element.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Element/Element.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Element/Element.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Element/Validation/EditElement.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Element/Validation/ReorderElement.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Element/Validation/StoreElement.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Frame.contant.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Frame.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Frame.gate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Frame.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Frame.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Frame.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Frame.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Validation/ChangeFrameStatus.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Validation/EditFrame.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Validation/ListFrame.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Validation/PublishFrame.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Frame/Validation/StoreFrame.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/FrameRelation/FrameRelation.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/FrameRelation/FrameRelation.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/FrameRelation/FrameRelation.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/FrameRelation/FrameRelation.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/FrameRelation/FrameRelation.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/FrameRelation/Validation/StoreFrameRelation.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/LexicalUnit.contant.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/LexicalUnit.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/LexicalUnit.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/LexicalUnit.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/LexicalUnit.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/LexicalUnit.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/Validation/EditLexicalUnit.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/Validation/ListLexicalUnit.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/Validation/ReorderLexicalUnit.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/LexicalUnit/Validation/StoreLexicalUnit.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Log/Log.class.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Log/Log.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Log/Log.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Log/Log.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Log/Log.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Message/Message.class.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Message/Message.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Message/Message.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Message/Message.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/App/Message/Message.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Message/Message.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Message/Message.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Message/Message.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Message/Validation/ListMessages.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Sentence/Sentence.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Sentence/Sentence.gate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Sentence/Sentence.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Sentence/Sentence.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Sentence/Sentence.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Sentence/Sentence.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Sentence/Validation/EditSentence.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Sentence/Validation/ListSentence.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/Sentence/Validation/StoreSentence.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/TaggedSentence.constant.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/TaggedSentence.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/TaggedSentence.gate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/TaggedSentence.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/TaggedSentence.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/TaggedSentence.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/TaggedSentence.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/Validation/ChangeTaggedSentenceStatus.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/Validation/EditTaggedSentence.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/Validation/ListTaggedSentence.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/Validation/PublishTaggedSentence.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/TaggedSentence/Validation/StoreTaggedSentence.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/AuthenticatedUser.middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/User.contant.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/User.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/User.gate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/User.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/User.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/User.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/User.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/Validation/GrantUser.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/Validation/ListUser.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/Validation/LoginUser.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/Validation/RegisterUser.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/Validation/UpdateProfile.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/User/Validation/UpdateUser.validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/App/index.route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/App/index.route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Config/Language.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Config/Language.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Class/Middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Class/Middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Class/MongooseService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Class/MongooseService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Class/Response.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Class/Response.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Class/Route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Class/Route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Framework.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Framework.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Instance/Controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Instance/Controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Response/200/Ok.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Response/200/Ok.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Singleton/MongoosePaginator.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Core/Singleton/MongoosePaginator.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Element.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/ElementDeletion.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Frame.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/FrameDeletion.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/LexicalUnit.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/LexicalUnitDeletion.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/ElementDeletion.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/ElementEdition.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/FrameDeletion.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/FrameEdition.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/LexicalUnitDeletion.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/LexicalUnitEdition.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/SentenceDeletion.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/SentenceEdition.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/TaggedSentenceDeletion.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/TaggedSentenceEdition.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/UserDeletion.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Listener/UserPrivileges.listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/Sentence.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/SentenceDeletion.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/TaggedSentence.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/TaggedSentenceDeletion.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/User.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Event/UserDeletion.event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Fastify/plugins.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/Fastify/plugins.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Lang/fa/frame.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Lang/fa/responses.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Lang/fa/taggedSentence.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Lang/fa/validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Public/assets/en-b25bb000.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Public/assets/fa-6bc128a2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Public/assets/index-649623fe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Public/assets/index-f624be16.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/Public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming-Chatting/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Gaming-Chatting/src/app.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Accounting/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Gaming-Chatting" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/league/config" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/composer" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Accounting/vendor/symfony/yaml" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2P9FbBSKRLPmAbmzxcA27ahFX8Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/git/1_DONE/microservices/Gaming-Chatting",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "E:\\computer\\projects\\microservices\\SolidTailwindFlowbiteTemplate\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\1_DONE\microservices\Gaming-Chatting" />
+      <recent name="E:\computer\projects\microservices\front\src\Pages\User" />
+      <recent name="E:\computer\projects\microservices\front\src\Pages" />
+      <recent name="E:\computer\projects\microservices" />
+      <recent name="E:\computer\projects\microservices\front\src\Core\Response" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git\1_DONE\microservices" />
+      <recent name="E:\computer\projects\microservices\front\src" />
+      <recent name="E:\computer\projects\microservices\front\src\Event" />
+      <recent name="E:\computer\projects\microservices\front\src\Core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/Accounting/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/front/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13a24fb4-945a-4d89-b499-7f86c8fa4140" name="Changes" comment="" />
+      <created>1682861460235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682861460235</updated>
+      <workItem from="1682861461229" duration="1628000" />
+      <workItem from="1682874495531" duration="2602000" />
+      <workItem from="1682932482807" duration="12527000" />
+      <workItem from="1683006307570" duration="1631000" />
+      <workItem from="1683011384801" duration="9210000" />
+      <workItem from="1683096330473" duration="2302000" />
+      <workItem from="1683102931890" duration="1338000" />
+      <workItem from="1683111860801" duration="2538000" />
+      <workItem from="1683146862252" duration="15599000" />
+      <workItem from="1683371046668" duration="2775000" />
+      <workItem from="1683398063267" duration="5617000" />
+      <workItem from="1683434720871" duration="632000" />
+      <workItem from="1683438125989" duration="165000" />
+      <workItem from="1731566377384" duration="54000" />
+      <workItem from="1731578762673" duration="4602000" />
+      <workItem from="1731673156280" duration="1836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SolidTailwindFlowbiteTemplate/node_modules/tailwindcss/stubs/tailwind.config.js" />
+        <option value="$PROJECT_DIR$/SolidTailwindFlowbiteTemplate/node_modules/tailwindcss/stubs/tailwind.config.cjs" />
+      </list>
+    </option>
+  </component>
+</project>
